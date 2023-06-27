@@ -3,7 +3,8 @@
 
 ## LISTES DES EQUIPEMENTS
 >### Robotique
--![LR Mate 200iD Main Image_1087](https://github.com/SimonHur50/test/assets/137881630/1370ed7f-7af6-4607-936f-894c26b8214a)
+-Er4ia
+![LR Mate 200iD Main Image_1087](https://github.com/SimonHur50/test/assets/137881630/1370ed7f-7af6-4607-936f-894c26b8214a)
 
 >### Automatisme
 -
