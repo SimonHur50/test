@@ -13,7 +13,8 @@
 **bold text**
 *italic text*
 
-> #List des equipements
+#List des equipements
+>
 - Robot FANUC ER4-iA
 - IHM KEP
 - Rasberry
