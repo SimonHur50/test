@@ -1,7 +1,5 @@
-# test
-<h1> SIMON </h1>
-## Heading level 2
-**bold text**
+# PROJET MINI-OLYMPIADE
+
 
 ## LISTES DES EQUIPEMENTS
 >### Robotique
@@ -15,8 +13,9 @@
 
 >## List des fonctions contriante
 - TRIER LES PIECES
-- IHM KEP
-- Rasberry
+- CONTROLER LES PIECES
+
+
 `code`
 
 **bold text**
