@@ -3,20 +3,24 @@
 ## Heading level 2
 **bold text**
 
-# 
-## Mecanique
+## LISTES DES EQUIPEMENTS
+>### Robotique
+-
+>### Automatisme
+-
+>### Informatique
+-
+>### Mecanique
+-
 
-## 
-
-## Mecanique
+>## List des fonctions contriante
+- TRIER LES PIECES
+- IHM KEP
+- Rasberry
+`code`
 
 **bold text**
 *italic text*
 
-># List des equipements
-
-- Robot FANUC ER4-iA
-- IHM KEP
-- Rasberry
-`code`
+>
 
